@@ -1,4 +1,4 @@
-# XGB-with-PCA-DWT by 
+# XGB-with-PCA-DWT (it sucks tbh)
 
 Simpler replication of a paper of João Nobreand Rui Ferreira Neves, realized by me and other two components of my university students club.
 Without entering in to the effective econometric meaning of the research, we tried to use PCA to reduce the dimensionality of a large dataset and filter out the noise using DWT.
